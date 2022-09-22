@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿// See https://aka.ms/new-console-template for more information
 /////////////////////////////
 // Assignment 1: create a game of Tic-Tac-Toe
@@ -75,3 +76,5 @@ else if (userInput = nine)
 
 
 
+=======
+>>>>>>> 0a1ff976df20b09a673236865c32d5e8b87cd947
